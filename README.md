@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Ben!</h1>
 
 <h2>Current Projects 🔭</h2> 
-<p>Step Counter application  - Swift application that takes in real time HealthUI data from users phones</p><br>
-<p>Powershell-Automation-App - IT Support application to help reduce workload by automating common tasks (Powershell)</p><br>
+<p>Step Counter application  - Swift application that takes in real time HealthUI data from users phones</p>
+<p>Powershell-Automation-App - IT Support application to help reduce workload by automating common tasks (Powershell)</p>
 <p>Community Project Website - location for users to post projects they are working on and looking for partners to work with</p>
 <h2>What I'm Learning </h2> 
-<p>- At the moment i'm learning app development through XCode's Swift UI. </p><br>
-<p>- I'm also learning to make interactive applications with powershell and XAML windows in my "Powershell-Automation-App" repository.</p><br>
+<p>- At the moment i'm learning app development through XCode's Swift UI. </p>
+<p>- I'm also learning to make interactive applications with powershell and XAML windows in my "Powershell-Automation-App" repository.</p>
 <p>- Research the use of node.js for community posted websites built in html, css, and javascript</p>
 <h2>Knowledge</h2>
 <h3 align="left">Languages and Tools:</h3>
