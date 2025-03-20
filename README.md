@@ -1,17 +1,4 @@
-<div style="display: flex; align-items: center;">
-  <div>
-    <ul>
-      <li>Software Developer</li>
-      <li>Web Developer</li>
-      <li>Automation Enthusiast</li>
-    </ul>
-  </div>
-  <div>
-    <img src="cartoonMe.png" style="width: 150px; margin-left: 20px;"/>
-  </div>
-</div>
-
-
+<h1> Hi, I'm Ben </h1>
 <h2>Current Projects 🔭</h2> 
 <p>Step Counter application  - Swift application that takes in real time HealthUI data from users phones</p>
 <p>Powershell-Automation-App - IT Support application to help reduce workload by automating common tasks (Powershell)</p>
